@@ -20,9 +20,9 @@ Prerequisites
 Java installed (JDK 8 or later)
 
 Steps
-Compile the program
+Compile the program  :
 javac SimpleCalculator.java
 
-Run the program
+Run the program  :
 java SimpleCalculator managaer.java
 
